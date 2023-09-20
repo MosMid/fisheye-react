@@ -11,7 +11,8 @@ import Profil from './pages/Profil';
 import Redirect from './pages/Redirect';
 
 //const serverUrl: string = 'http://localhost:3000/api/';
-const serverUrl: string = 'https://mighty-caverns-57917.herokuapp.com/api/';
+//const serverUrl: string = 'https://mighty-caverns-57917.herokuapp.com/api/';
+const serverUrl: string = 'https://fisheye-56cce17ea715.herokuapp.com/api/';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
